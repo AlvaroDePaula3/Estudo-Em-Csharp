@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\TesteEmC#\TesteEmC#\TesteEmC#\bin\Debug\TesteEmC#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\TesteEmC#\TesteEmC#\TesteEmC#\bin\Debug\TesteEmC#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\TesteEmC#\TesteEmC#\TesteEmC#\bin\Debug\TesteEmC#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\TesteEmC#\TesteEmC#\TesteEmC#\obj\Debug\TesteEmC#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\TesteEmC#\TesteEmC#\TesteEmC#\obj\Debug\TesteEmC#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\TesteEmC#\TesteEmC#\TesteEmC#\obj\Debug\TesteEmC#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\TesteEmC#\TesteEmC#\TesteEmC#\obj\Debug\TesteEmC#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\TesteEmC#\TesteEmC#\TesteEmC#\obj\Debug\TesteEmC#.pdb
