@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Treinando operações lógicas\Operações lógicas\Operações lógicas\bin\Debug\Operações lógicas.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Treinando operações lógicas\Operações lógicas\Operações lógicas\bin\Debug\Operações lógicas.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Treinando operações lógicas\Operações lógicas\Operações lógicas\bin\Debug\Operações lógicas.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Treinando operações lógicas\Operações lógicas\Operações lógicas\obj\Debug\Operações lógicas.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Treinando operações lógicas\Operações lógicas\Operações lógicas\obj\Debug\Operações lógicas.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Treinando operações lógicas\Operações lógicas\Operações lógicas\obj\Debug\Operações lógicas.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Treinando operações lógicas\Operações lógicas\Operações lógicas\obj\Debug\Operações lógicas.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Treinando operações lógicas\Operações lógicas\Operações lógicas\obj\Debug\Operações lógicas.pdb
