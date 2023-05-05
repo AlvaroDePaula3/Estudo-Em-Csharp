@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estrutura de Decisões C#\Estrutura De decisões C#\Estrutura De decisões C#\bin\Debug\Estrutura De decisões C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Estrutura de Decisões C#\Estrutura De decisões C#\Estrutura De decisões C#\bin\Debug\Estrutura De decisões C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estrutura de Decisões C#\Estrutura De decisões C#\Estrutura De decisões C#\bin\Debug\Estrutura De decisões C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estrutura de Decisões C#\Estrutura De decisões C#\Estrutura De decisões C#\obj\Debug\Estrutura De decisões C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estrutura de Decisões C#\Estrutura De decisões C#\Estrutura De decisões C#\obj\Debug\Estrutura De decisões C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estrutura de Decisões C#\Estrutura De decisões C#\Estrutura De decisões C#\obj\Debug\Estrutura De decisões C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estrutura de Decisões C#\Estrutura De decisões C#\Estrutura De decisões C#\obj\Debug\Estrutura De decisões C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estrutura de Decisões C#\Estrutura De decisões C#\Estrutura De decisões C#\obj\Debug\Estrutura De decisões C#.pdb
