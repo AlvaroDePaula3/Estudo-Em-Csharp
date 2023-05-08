@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas\Operações matemáticas Em C#\Operações matemáticas Em C#\obj\Debug\Operações matemáticas Em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas\Operações matemáticas Em C#\Operações matemáticas Em C#\obj\Debug\Operações matemáticas Em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas\Operações matemáticas Em C#\Operações matemáticas Em C#\obj\Debug\Operações matemáticas Em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas\Operações matemáticas Em C#\Operações matemáticas Em C#\bin\Debug\Operações matemáticas Em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas\Operações matemáticas Em C#\Operações matemáticas Em C#\bin\Debug\Operações matemáticas Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas\Operações matemáticas Em C#\Operações matemáticas Em C#\bin\Debug\Operações matemáticas Em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas\Operações matemáticas Em C#\Operações matemáticas Em C#\obj\Debug\Operações matemáticas Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas\Operações matemáticas Em C#\Operações matemáticas Em C#\obj\Debug\Operações matemáticas Em C#.pdb
