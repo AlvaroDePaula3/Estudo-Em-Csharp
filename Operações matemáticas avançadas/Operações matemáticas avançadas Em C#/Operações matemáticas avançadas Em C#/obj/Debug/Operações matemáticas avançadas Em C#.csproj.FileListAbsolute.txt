@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas avançadas\Operações matemáticas avançadas Em C#\Operações matemáticas avançadas Em C#\bin\Debug\Operações matemáticas avançadas Em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas avançadas\Operações matemáticas avançadas Em C#\Operações matemáticas avançadas Em C#\bin\Debug\Operações matemáticas avançadas Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas avançadas\Operações matemáticas avançadas Em C#\Operações matemáticas avançadas Em C#\bin\Debug\Operações matemáticas avançadas Em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas avançadas\Operações matemáticas avançadas Em C#\Operações matemáticas avançadas Em C#\obj\Debug\Operações matemáticas avançadas Em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas avançadas\Operações matemáticas avançadas Em C#\Operações matemáticas avançadas Em C#\obj\Debug\Operações matemáticas avançadas Em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas avançadas\Operações matemáticas avançadas Em C#\Operações matemáticas avançadas Em C#\obj\Debug\Operações matemáticas avançadas Em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas avançadas\Operações matemáticas avançadas Em C#\Operações matemáticas avançadas Em C#\obj\Debug\Operações matemáticas avançadas Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Operações matemáticas avançadas\Operações matemáticas avançadas Em C#\Operações matemáticas avançadas Em C#\obj\Debug\Operações matemáticas avançadas Em C#.pdb
