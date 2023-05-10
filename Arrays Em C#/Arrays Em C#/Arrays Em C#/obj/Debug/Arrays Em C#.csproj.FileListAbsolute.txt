@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Arrays Em C#\Arrays Em C#\Arrays Em C#\bin\Debug\Arrays Em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Arrays Em C#\Arrays Em C#\Arrays Em C#\bin\Debug\Arrays Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Arrays Em C#\Arrays Em C#\Arrays Em C#\bin\Debug\Arrays Em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Arrays Em C#\Arrays Em C#\Arrays Em C#\obj\Debug\Arrays Em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Arrays Em C#\Arrays Em C#\Arrays Em C#\obj\Debug\Arrays Em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Arrays Em C#\Arrays Em C#\Arrays Em C#\obj\Debug\Arrays Em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Arrays Em C#\Arrays Em C#\Arrays Em C#\obj\Debug\Arrays Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Arrays Em C#\Arrays Em C#\Arrays Em C#\obj\Debug\Arrays Em C#.pdb
