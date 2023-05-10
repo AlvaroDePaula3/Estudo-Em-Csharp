@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\DateTime avançado\DateTime Avançado\DateTime Avançado\bin\Debug\DateTime Avançado.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\DateTime avançado\DateTime Avançado\DateTime Avançado\bin\Debug\DateTime Avançado.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\DateTime avançado\DateTime Avançado\DateTime Avançado\bin\Debug\DateTime Avançado.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\DateTime avançado\DateTime Avançado\DateTime Avançado\obj\Debug\DateTime Avançado.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\DateTime avançado\DateTime Avançado\DateTime Avançado\obj\Debug\DateTime Avançado.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\DateTime avançado\DateTime Avançado\DateTime Avançado\obj\Debug\DateTime Avançado.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\DateTime avançado\DateTime Avançado\DateTime Avançado\obj\Debug\DateTime Avançado.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\DateTime avançado\DateTime Avançado\DateTime Avançado\obj\Debug\DateTime Avançado.pdb
