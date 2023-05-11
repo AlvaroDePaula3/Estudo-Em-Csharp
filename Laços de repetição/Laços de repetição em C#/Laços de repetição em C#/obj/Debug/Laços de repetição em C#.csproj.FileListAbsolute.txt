@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Laços de repetição\Laços de repetição em C#\Laços de repetição em C#\bin\Debug\Laços de repetição em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Laços de repetição\Laços de repetição em C#\Laços de repetição em C#\bin\Debug\Laços de repetição em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Laços de repetição\Laços de repetição em C#\Laços de repetição em C#\bin\Debug\Laços de repetição em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Laços de repetição\Laços de repetição em C#\Laços de repetição em C#\obj\Debug\Laços de repetição em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Laços de repetição\Laços de repetição em C#\Laços de repetição em C#\obj\Debug\Laços de repetição em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Laços de repetição\Laços de repetição em C#\Laços de repetição em C#\obj\Debug\Laços de repetição em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Laços de repetição\Laços de repetição em C#\Laços de repetição em C#\obj\Debug\Laços de repetição em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Laços de repetição\Laços de repetição em C#\Laços de repetição em C#\obj\Debug\Laços de repetição em C#.pdb
