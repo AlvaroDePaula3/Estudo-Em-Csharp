@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Break e continue C#\break e continue em C#\break e continue em C#\bin\Debug\break e continue em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Break e continue C#\break e continue em C#\break e continue em C#\bin\Debug\break e continue em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Break e continue C#\break e continue em C#\break e continue em C#\bin\Debug\break e continue em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Break e continue C#\break e continue em C#\break e continue em C#\obj\Debug\break e continue em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Break e continue C#\break e continue em C#\break e continue em C#\obj\Debug\break e continue em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Break e continue C#\break e continue em C#\break e continue em C#\obj\Debug\break e continue em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Break e continue C#\break e continue em C#\break e continue em C#\obj\Debug\break e continue em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Break e continue C#\break e continue em C#\break e continue em C#\obj\Debug\break e continue em C#.pdb
