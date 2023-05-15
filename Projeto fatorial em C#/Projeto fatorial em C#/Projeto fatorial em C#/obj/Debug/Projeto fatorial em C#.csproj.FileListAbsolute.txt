@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto fatorial em C#\Projeto fatorial em C#\Projeto fatorial em C#\bin\Debug\Projeto fatorial em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto fatorial em C#\Projeto fatorial em C#\Projeto fatorial em C#\bin\Debug\Projeto fatorial em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto fatorial em C#\Projeto fatorial em C#\Projeto fatorial em C#\bin\Debug\Projeto fatorial em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto fatorial em C#\Projeto fatorial em C#\Projeto fatorial em C#\obj\Debug\Projeto fatorial em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto fatorial em C#\Projeto fatorial em C#\Projeto fatorial em C#\obj\Debug\Projeto fatorial em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto fatorial em C#\Projeto fatorial em C#\Projeto fatorial em C#\obj\Debug\Projeto fatorial em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto fatorial em C#\Projeto fatorial em C#\Projeto fatorial em C#\obj\Debug\Projeto fatorial em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Projeto fatorial em C#\Projeto fatorial em C#\Projeto fatorial em C#\obj\Debug\Projeto fatorial em C#.pdb
