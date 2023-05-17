@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de strings\Manipilação de strings\Manipilação de strings\bin\Debug\Manipilação de strings.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de strings\Manipilação de strings\Manipilação de strings\bin\Debug\Manipilação de strings.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de strings\Manipilação de strings\Manipilação de strings\bin\Debug\Manipilação de strings.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de strings\Manipilação de strings\Manipilação de strings\obj\Debug\Manipilação de strings.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de strings\Manipilação de strings\Manipilação de strings\obj\Debug\Manipilação de strings.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de strings\Manipilação de strings\Manipilação de strings\obj\Debug\Manipilação de strings.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de strings\Manipilação de strings\Manipilação de strings\obj\Debug\Manipilação de strings.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de strings\Manipilação de strings\Manipilação de strings\obj\Debug\Manipilação de strings.pdb
