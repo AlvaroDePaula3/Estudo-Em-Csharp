@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Enum em C#\Enum Em C#\Enum Em C#\bin\Debug\Enum Em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Enum em C#\Enum Em C#\Enum Em C#\bin\Debug\Enum Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Enum em C#\Enum Em C#\Enum Em C#\bin\Debug\Enum Em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Enum em C#\Enum Em C#\Enum Em C#\obj\Debug\Enum Em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Enum em C#\Enum Em C#\Enum Em C#\obj\Debug\Enum Em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Enum em C#\Enum Em C#\Enum Em C#\obj\Debug\Enum Em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Enum em C#\Enum Em C#\Enum Em C#\obj\Debug\Enum Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Enum em C#\Enum Em C#\Enum Em C#\obj\Debug\Enum Em C#.pdb
