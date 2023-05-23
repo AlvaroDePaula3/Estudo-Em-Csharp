@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Listas em C#\Listas em C#\Listas em C#\bin\Debug\Listas em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Listas em C#\Listas em C#\Listas em C#\bin\Debug\Listas em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Listas em C#\Listas em C#\Listas em C#\bin\Debug\Listas em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Listas em C#\Listas em C#\Listas em C#\obj\Debug\Listas em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Listas em C#\Listas em C#\Listas em C#\obj\Debug\Listas em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Listas em C#\Listas em C#\Listas em C#\obj\Debug\Listas em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Listas em C#\Listas em C#\Listas em C#\obj\Debug\Listas em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Listas em C#\Listas em C#\Listas em C#\obj\Debug\Listas em C#.pdb
