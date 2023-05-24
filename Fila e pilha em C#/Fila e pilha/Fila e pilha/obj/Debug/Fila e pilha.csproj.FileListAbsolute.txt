@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Fila e pilha em C#\Fila e pilha\Fila e pilha\bin\Debug\Fila e pilha.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Fila e pilha em C#\Fila e pilha\Fila e pilha\bin\Debug\Fila e pilha.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Fila e pilha em C#\Fila e pilha\Fila e pilha\bin\Debug\Fila e pilha.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Fila e pilha em C#\Fila e pilha\Fila e pilha\obj\Debug\Fila e pilha.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Fila e pilha em C#\Fila e pilha\Fila e pilha\obj\Debug\Fila e pilha.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Fila e pilha em C#\Fila e pilha\Fila e pilha\obj\Debug\Fila e pilha.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Fila e pilha em C#\Fila e pilha\Fila e pilha\obj\Debug\Fila e pilha.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Fila e pilha em C#\Fila e pilha\Fila e pilha\obj\Debug\Fila e pilha.pdb
