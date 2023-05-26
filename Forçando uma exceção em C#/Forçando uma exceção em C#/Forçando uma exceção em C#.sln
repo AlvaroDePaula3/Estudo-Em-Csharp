@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.33530.505
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Forçando uma exceção em C#", "Forçando uma exceção em C#\Forçando uma exceção em C#.csproj", "{B9139614-1BD8-4F9E-BA19-26E4FB8636DF}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B9139614-1BD8-4F9E-BA19-26E4FB8636DF}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B9139614-1BD8-4F9E-BA19-26E4FB8636DF}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B9139614-1BD8-4F9E-BA19-26E4FB8636DF}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B9139614-1BD8-4F9E-BA19-26E4FB8636DF}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {142C6423-8231-475A-A498-71437153867A}
+	EndGlobalSection
+EndGlobal

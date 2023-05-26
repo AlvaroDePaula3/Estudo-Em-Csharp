@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Forçando uma exceção em C#\Forçando uma exceção em C#\Forçando uma exceção em C#\obj\Debug\Forçando uma exceção em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Forçando uma exceção em C#\Forçando uma exceção em C#\Forçando uma exceção em C#\obj\Debug\Forçando uma exceção em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Forçando uma exceção em C#\Forçando uma exceção em C#\Forçando uma exceção em C#\obj\Debug\Forçando uma exceção em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Forçando uma exceção em C#\Forçando uma exceção em C#\Forçando uma exceção em C#\bin\Debug\Forçando uma exceção em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Forçando uma exceção em C#\Forçando uma exceção em C#\Forçando uma exceção em C#\bin\Debug\Forçando uma exceção em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Forçando uma exceção em C#\Forçando uma exceção em C#\Forçando uma exceção em C#\bin\Debug\Forçando uma exceção em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Forçando uma exceção em C#\Forçando uma exceção em C#\Forçando uma exceção em C#\obj\Debug\Forçando uma exceção em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Forçando uma exceção em C#\Forçando uma exceção em C#\Forçando uma exceção em C#\obj\Debug\Forçando uma exceção em C#.pdb
