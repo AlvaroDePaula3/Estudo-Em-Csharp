@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Exceções em C#\Tratamento de exceções\Tratamento de exceções\bin\Debug\Tratamento de exceções.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Exceções em C#\Tratamento de exceções\Tratamento de exceções\bin\Debug\Tratamento de exceções.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Exceções em C#\Tratamento de exceções\Tratamento de exceções\bin\Debug\Tratamento de exceções.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Exceções em C#\Tratamento de exceções\Tratamento de exceções\obj\Debug\Tratamento de exceções.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Exceções em C#\Tratamento de exceções\Tratamento de exceções\obj\Debug\Tratamento de exceções.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Exceções em C#\Tratamento de exceções\Tratamento de exceções\obj\Debug\Tratamento de exceções.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Exceções em C#\Tratamento de exceções\Tratamento de exceções\obj\Debug\Tratamento de exceções.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Exceções em C#\Tratamento de exceções\Tratamento de exceções\obj\Debug\Tratamento de exceções.pdb
