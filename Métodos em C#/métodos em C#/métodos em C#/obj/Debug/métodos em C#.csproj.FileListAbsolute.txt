@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Métodos em C#\métodos em C#\métodos em C#\obj\Debug\métodos em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Métodos em C#\métodos em C#\métodos em C#\obj\Debug\métodos em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Métodos em C#\métodos em C#\métodos em C#\obj\Debug\métodos em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Métodos em C#\métodos em C#\métodos em C#\bin\Debug\métodos em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Métodos em C#\métodos em C#\métodos em C#\bin\Debug\métodos em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Métodos em C#\métodos em C#\métodos em C#\bin\Debug\métodos em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Métodos em C#\métodos em C#\métodos em C#\obj\Debug\métodos em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Métodos em C#\métodos em C#\métodos em C#\obj\Debug\métodos em C#.pdb
