@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Delegates em C#\Delegates Em C#\Delegates Em C#\bin\Debug\Delegates Em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Delegates em C#\Delegates Em C#\Delegates Em C#\bin\Debug\Delegates Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Delegates em C#\Delegates Em C#\Delegates Em C#\bin\Debug\Delegates Em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Delegates em C#\Delegates Em C#\Delegates Em C#\obj\Debug\Delegates Em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Delegates em C#\Delegates Em C#\Delegates Em C#\obj\Debug\Delegates Em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Delegates em C#\Delegates Em C#\Delegates Em C#\obj\Debug\Delegates Em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Delegates em C#\Delegates Em C#\Delegates Em C#\obj\Debug\Delegates Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Delegates em C#\Delegates Em C#\Delegates Em C#\obj\Debug\Delegates Em C#.pdb
