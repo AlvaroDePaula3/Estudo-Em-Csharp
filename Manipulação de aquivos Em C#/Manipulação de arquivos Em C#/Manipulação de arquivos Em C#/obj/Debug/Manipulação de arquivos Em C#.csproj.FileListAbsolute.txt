@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de aquivos Em C#\Manipulação de arquivos Em C#\Manipulação de arquivos Em C#\bin\Debug\Manipulação de arquivos Em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de aquivos Em C#\Manipulação de arquivos Em C#\Manipulação de arquivos Em C#\bin\Debug\Manipulação de arquivos Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de aquivos Em C#\Manipulação de arquivos Em C#\Manipulação de arquivos Em C#\bin\Debug\Manipulação de arquivos Em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de aquivos Em C#\Manipulação de arquivos Em C#\Manipulação de arquivos Em C#\obj\Debug\Manipulação de arquivos Em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de aquivos Em C#\Manipulação de arquivos Em C#\Manipulação de arquivos Em C#\obj\Debug\Manipulação de arquivos Em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de aquivos Em C#\Manipulação de arquivos Em C#\Manipulação de arquivos Em C#\obj\Debug\Manipulação de arquivos Em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de aquivos Em C#\Manipulação de arquivos Em C#\Manipulação de arquivos Em C#\obj\Debug\Manipulação de arquivos Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de aquivos Em C#\Manipulação de arquivos Em C#\Manipulação de arquivos Em C#\obj\Debug\Manipulação de arquivos Em C#.pdb
