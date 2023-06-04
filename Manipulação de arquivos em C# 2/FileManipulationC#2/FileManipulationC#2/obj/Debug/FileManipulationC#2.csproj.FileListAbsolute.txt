@@ -1,0 +1,16 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\resolvendo algo\FileManipulationC#2\FileManipulationC#2\bin\Debug\FileManipulationC#2.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\resolvendo algo\FileManipulationC#2\FileManipulationC#2\bin\Debug\FileManipulationC#2.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\resolvendo algo\FileManipulationC#2\FileManipulationC#2\bin\Debug\FileManipulationC#2.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\resolvendo algo\FileManipulationC#2\FileManipulationC#2\obj\Debug\FileManipulationC#2.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\resolvendo algo\FileManipulationC#2\FileManipulationC#2\obj\Debug\FileManipulationC#2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\resolvendo algo\FileManipulationC#2\FileManipulationC#2\obj\Debug\FileManipulationC#2.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\resolvendo algo\FileManipulationC#2\FileManipulationC#2\obj\Debug\FileManipulationC#2.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\resolvendo algo\FileManipulationC#2\FileManipulationC#2\obj\Debug\FileManipulationC#2.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Manipulação de arquivos em C# 2\FileManipulationC#2\FileManipulationC#2\bin\Debug\FileManipulationC#2.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Manipulação de arquivos em C# 2\FileManipulationC#2\FileManipulationC#2\bin\Debug\FileManipulationC#2.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Manipulação de arquivos em C# 2\FileManipulationC#2\FileManipulationC#2\bin\Debug\FileManipulationC#2.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Manipulação de arquivos em C# 2\FileManipulationC#2\FileManipulationC#2\obj\Debug\FileManipulationC#2.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Manipulação de arquivos em C# 2\FileManipulationC#2\FileManipulationC#2\obj\Debug\FileManipulationC#2.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Manipulação de arquivos em C# 2\FileManipulationC#2\FileManipulationC#2\obj\Debug\FileManipulationC#2.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Manipulação de arquivos em C# 2\FileManipulationC#2\FileManipulationC#2\obj\Debug\FileManipulationC#2.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Manipulação de arquivos em C# 2\FileManipulationC#2\FileManipulationC#2\obj\Debug\FileManipulationC#2.pdb
