@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\bin\Debug\Manipulação de arquivos 3 em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\bin\Debug\Manipulação de arquivos 3 em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\bin\Debug\Manipulação de arquivos 3 em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\obj\Debug\Manipulação de arquivos 3 em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\obj\Debug\Manipulação de arquivos 3 em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\obj\Debug\Manipulação de arquivos 3 em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\obj\Debug\Manipulação de arquivos 3 em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#\obj\Debug\Manipulação de arquivos 3 em C#.pdb

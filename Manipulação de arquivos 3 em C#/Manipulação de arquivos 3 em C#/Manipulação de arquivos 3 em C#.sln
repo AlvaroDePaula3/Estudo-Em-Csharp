@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.6.33723.286
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Manipulação de arquivos 3 em C#", "Manipulação de arquivos 3 em C#\Manipulação de arquivos 3 em C#.csproj", "{EB2E6E73-5E23-433E-A93E-EB400E923B29}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EB2E6E73-5E23-433E-A93E-EB400E923B29}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EB2E6E73-5E23-433E-A93E-EB400E923B29}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EB2E6E73-5E23-433E-A93E-EB400E923B29}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EB2E6E73-5E23-433E-A93E-EB400E923B29}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA57E3AC-DA38-47B1-8136-6DC35C22EE26}
+	EndGlobalSection
+EndGlobal
