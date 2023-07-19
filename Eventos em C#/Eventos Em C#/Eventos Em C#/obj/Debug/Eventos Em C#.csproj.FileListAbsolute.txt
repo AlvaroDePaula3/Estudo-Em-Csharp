@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Eventos em C#\Eventos Em C#\Eventos Em C#\bin\Debug\Eventos Em C#.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Eventos em C#\Eventos Em C#\Eventos Em C#\bin\Debug\Eventos Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Eventos em C#\Eventos Em C#\Eventos Em C#\bin\Debug\Eventos Em C#.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Eventos em C#\Eventos Em C#\Eventos Em C#\obj\Debug\Eventos Em C#.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Eventos em C#\Eventos Em C#\Eventos Em C#\obj\Debug\Eventos Em C#.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Eventos em C#\Eventos Em C#\Eventos Em C#\obj\Debug\Eventos Em C#.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Eventos em C#\Eventos Em C#\Eventos Em C#\obj\Debug\Eventos Em C#.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Eventos em C#\Eventos Em C#\Eventos Em C#\obj\Debug\Eventos Em C#.pdb
