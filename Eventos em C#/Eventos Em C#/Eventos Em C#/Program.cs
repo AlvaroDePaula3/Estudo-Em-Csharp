@@ -13,7 +13,7 @@ namespace Eventos_Em_C_
             Fabrica novaFabrica = new Fabrica();
             Concessionaria novaConcessionaria = new Concessionaria("HB20", novaFabrica);
 
-            novaFabrica.mensagemDaFabrica();
+            novaFabrica.mensagemDaFabrica(6000);
 
             Console.ReadKey();
         }

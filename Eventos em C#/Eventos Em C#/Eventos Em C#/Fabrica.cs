@@ -8,15 +8,15 @@ namespace Eventos_Em_C_
 {
     internal class Fabrica
     {
-        public delegate void delegateFabrica (object origem, EventArgs e);
+        public delegate void delegateFabrica (object origem, eventoVariante e);
 
         public event delegateFabrica eventoFabrica;
 
-        public void mensagemDaFabrica()
+        public void mensagemDaFabrica(UInt32 preco)
         {
             if (eventoFabrica != null)
             {
-                EventArgs e = new EventArgs();
+                eventoVariante e = new eventoVariante(preco);
                 eventoFabrica(this, e);
             }
         }

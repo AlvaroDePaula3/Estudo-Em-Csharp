@@ -10,9 +10,9 @@ namespace Eventos_Em_C_
     {
         private string carro;
 
-        public void carroPronto(object origem, EventArgs e)
+        public void carroPronto(object origem, eventoVariante e)
         {
-            Console.WriteLine("O carro " + carro + " está pronto para ser vendido.");
+            Console.WriteLine("O carro " + carro + " pode ser vendido pelo valor de: R$" + e.valorDoCarro) ;
         }
 
         public Concessionaria (string carroFeito, Fabrica parametroFabrica)
