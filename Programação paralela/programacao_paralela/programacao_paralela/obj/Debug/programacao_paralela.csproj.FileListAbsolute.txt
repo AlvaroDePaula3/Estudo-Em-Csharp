@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Programação paralela\programacao_paralela\programacao_paralela\bin\Debug\programacao_paralela.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Programação paralela\programacao_paralela\programacao_paralela\bin\Debug\programacao_paralela.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Programação paralela\programacao_paralela\programacao_paralela\bin\Debug\programacao_paralela.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Programação paralela\programacao_paralela\programacao_paralela\obj\Debug\programacao_paralela.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Programação paralela\programacao_paralela\programacao_paralela\obj\Debug\programacao_paralela.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Programação paralela\programacao_paralela\programacao_paralela\obj\Debug\programacao_paralela.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Programação paralela\programacao_paralela\programacao_paralela\obj\Debug\programacao_paralela.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Programação paralela\programacao_paralela\programacao_paralela\obj\Debug\programacao_paralela.pdb
