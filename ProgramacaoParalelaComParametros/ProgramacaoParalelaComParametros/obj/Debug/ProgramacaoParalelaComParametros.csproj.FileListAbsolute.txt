@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Threads2\ProgramacaoParalelaComParametros\ProgramacaoParalelaComParametros\bin\Debug\ProgramacaoParalelaComParametros.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Threads2\ProgramacaoParalelaComParametros\ProgramacaoParalelaComParametros\bin\Debug\ProgramacaoParalelaComParametros.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Threads2\ProgramacaoParalelaComParametros\ProgramacaoParalelaComParametros\bin\Debug\ProgramacaoParalelaComParametros.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Threads2\ProgramacaoParalelaComParametros\ProgramacaoParalelaComParametros\obj\Debug\ProgramacaoParalelaComParametros.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Threads2\ProgramacaoParalelaComParametros\ProgramacaoParalelaComParametros\obj\Debug\ProgramacaoParalelaComParametros.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Threads2\ProgramacaoParalelaComParametros\ProgramacaoParalelaComParametros\obj\Debug\ProgramacaoParalelaComParametros.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Threads2\ProgramacaoParalelaComParametros\ProgramacaoParalelaComParametros\obj\Debug\ProgramacaoParalelaComParametros.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Threads2\ProgramacaoParalelaComParametros\ProgramacaoParalelaComParametros\obj\Debug\ProgramacaoParalelaComParametros.pdb
