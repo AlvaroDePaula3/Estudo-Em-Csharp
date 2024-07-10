@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Tasks\Estudo Tasks\Estudo Tasks\bin\Debug\Estudo Tasks.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Tasks\Estudo Tasks\Estudo Tasks\bin\Debug\Estudo Tasks.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Tasks\Estudo Tasks\Estudo Tasks\bin\Debug\Estudo Tasks.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Tasks\Estudo Tasks\Estudo Tasks\obj\Debug\Estudo Tasks.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Tasks\Estudo Tasks\Estudo Tasks\obj\Debug\Estudo Tasks.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Tasks\Estudo Tasks\Estudo Tasks\obj\Debug\Estudo Tasks.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Tasks\Estudo Tasks\Estudo Tasks\obj\Debug\Estudo Tasks.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Tasks\Estudo Tasks\Estudo Tasks\obj\Debug\Estudo Tasks.pdb
