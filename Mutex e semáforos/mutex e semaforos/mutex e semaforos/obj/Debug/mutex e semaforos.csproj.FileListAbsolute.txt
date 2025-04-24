@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Mutex e semáforos\mutex e semaforos\mutex e semaforos\bin\Debug\mutex e semaforos.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Mutex e semáforos\mutex e semaforos\mutex e semaforos\bin\Debug\mutex e semaforos.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Mutex e semáforos\mutex e semaforos\mutex e semaforos\bin\Debug\mutex e semaforos.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Mutex e semáforos\mutex e semaforos\mutex e semaforos\obj\Debug\mutex e semaforos.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Mutex e semáforos\mutex e semaforos\mutex e semaforos\obj\Debug\mutex e semaforos.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Mutex e semáforos\mutex e semaforos\mutex e semaforos\obj\Debug\mutex e semaforos.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Mutex e semáforos\mutex e semaforos\mutex e semaforos\obj\Debug\mutex e semaforos.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Mutex e semáforos\mutex e semaforos\mutex e semaforos\obj\Debug\mutex e semaforos.pdb
