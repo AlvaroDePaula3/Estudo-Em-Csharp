@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Métodos Async e await\async e await\async e await\bin\Debug\async e await.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Métodos Async e await\async e await\async e await\bin\Debug\async e await.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Métodos Async e await\async e await\async e await\bin\Debug\async e await.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Métodos Async e await\async e await\async e await\obj\Debug\async e await.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Métodos Async e await\async e await\async e await\obj\Debug\async e await.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Métodos Async e await\async e await\async e await\obj\Debug\async e await.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Métodos Async e await\async e await\async e await\obj\Debug\async e await.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Métodos Async e await\async e await\async e await\obj\Debug\async e await.pdb
