@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timer no threading\Timer no threading\Timer no threading\bin\Debug\Timer no threading.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timer no threading\Timer no threading\Timer no threading\bin\Debug\Timer no threading.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timer no threading\Timer no threading\Timer no threading\bin\Debug\Timer no threading.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timer no threading\Timer no threading\Timer no threading\obj\Debug\Timer no threading.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timer no threading\Timer no threading\Timer no threading\obj\Debug\Timer no threading.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timer no threading\Timer no threading\Timer no threading\obj\Debug\Timer no threading.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timer no threading\Timer no threading\Timer no threading\obj\Debug\Timer no threading.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timer no threading\Timer no threading\Timer no threading\obj\Debug\Timer no threading.pdb
