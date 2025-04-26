@@ -1,0 +1,8 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timers\Timers\Timers\bin\Debug\Timers.exe.config
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timers\Timers\Timers\bin\Debug\Timers.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timers\Timers\Timers\bin\Debug\Timers.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timers\Timers\Timers\obj\Debug\Timers.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timers\Timers\Timers\obj\Debug\Timers.csproj.SuggestedBindingRedirects.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timers\Timers\Timers\obj\Debug\Timers.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timers\Timers\Timers\obj\Debug\Timers.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Timers\Timers\Timers\obj\Debug\Timers.pdb
