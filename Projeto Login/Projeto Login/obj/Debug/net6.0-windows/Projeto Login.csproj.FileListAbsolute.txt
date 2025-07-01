@@ -1,0 +1,17 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\bin\Debug\net6.0-windows\Projeto Login.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\bin\Debug\net6.0-windows\Projeto Login.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\bin\Debug\net6.0-windows\Projeto Login.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\bin\Debug\net6.0-windows\Projeto Login.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\bin\Debug\net6.0-windows\Projeto Login.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\Projeto Login.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\Projeto_Login.Form1.resources
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\Projeto Login.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\Projeto Login.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\Projeto Login.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\Projeto Login.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\Projeto Login.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\Projeto Login.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\refint\Projeto Login.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\Projeto Login.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\Projeto Login.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Projeto Login\Projeto Login\Projeto Login\obj\Debug\net6.0-windows\ref\Projeto Login.dll
