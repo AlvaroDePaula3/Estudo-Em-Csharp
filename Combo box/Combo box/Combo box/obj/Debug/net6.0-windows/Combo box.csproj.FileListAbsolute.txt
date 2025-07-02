@@ -1,0 +1,17 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\bin\Debug\net6.0-windows\Combo box.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\bin\Debug\net6.0-windows\Combo box.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\bin\Debug\net6.0-windows\Combo box.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\bin\Debug\net6.0-windows\Combo box.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\bin\Debug\net6.0-windows\Combo box.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\Combo box.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\Combo_box.Form1.resources
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\Combo box.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\Combo box.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\Combo box.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\Combo box.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\Combo box.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\Combo box.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\refint\Combo box.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\Combo box.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\Combo box.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Combo box\Combo box\Combo box\obj\Debug\net6.0-windows\ref\Combo box.dll
