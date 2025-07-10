@@ -1,0 +1,17 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\bin\Debug\net6.0-windows\track e progress bar.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\bin\Debug\net6.0-windows\track e progress bar.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\bin\Debug\net6.0-windows\track e progress bar.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\bin\Debug\net6.0-windows\track e progress bar.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\bin\Debug\net6.0-windows\track e progress bar.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\track e progress bar.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\track_e_progress_bar.Form1.resources
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\track e progress bar.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\track e progress bar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\track e progress bar.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\track e progress bar.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\track e progress bar.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\track e progress bar.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\refint\track e progress bar.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\track e progress bar.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\track e progress bar.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Progress bar e track bar\track e progress bar\track e progress bar\obj\Debug\net6.0-windows\ref\track e progress bar.dll
