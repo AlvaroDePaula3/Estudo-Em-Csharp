@@ -1,0 +1,17 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\bin\Debug\net6.0-windows\OpenFilDialog.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\bin\Debug\net6.0-windows\OpenFilDialog.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\bin\Debug\net6.0-windows\OpenFilDialog.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\bin\Debug\net6.0-windows\OpenFilDialog.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\bin\Debug\net6.0-windows\OpenFilDialog.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\OpenFilDialog.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\OpenFilDialog.Form1.resources
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\OpenFilDialog.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\OpenFilDialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\OpenFilDialog.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\OpenFilDialog.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\OpenFilDialog.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\OpenFilDialog.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\refint\OpenFilDialog.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\OpenFilDialog.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\OpenFilDialog.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\OpenFilDialog\OpenFilDialog\OpenFilDialog\obj\Debug\net6.0-windows\ref\OpenFilDialog.dll
