@@ -1,0 +1,17 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\bin\Debug\net6.0-windows\Data Grid View.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\bin\Debug\net6.0-windows\Data Grid View.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\bin\Debug\net6.0-windows\Data Grid View.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\bin\Debug\net6.0-windows\Data Grid View.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\bin\Debug\net6.0-windows\Data Grid View.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\Data Grid View.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\Data_Grid_View.Form1.resources
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\Data Grid View.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\Data Grid View.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\Data Grid View.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\Data Grid View.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\Data Grid View.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\Data Grid View.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\refint\Data Grid View.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\Data Grid View.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\Data Grid View.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Data Grid View\Data Grid View\Data Grid View\obj\Debug\net6.0-windows\ref\Data Grid View.dll
