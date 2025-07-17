@@ -1,0 +1,17 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\bin\Debug\net6.0-windows\Folder Browser Dialog.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\bin\Debug\net6.0-windows\Folder Browser Dialog.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\bin\Debug\net6.0-windows\Folder Browser Dialog.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\bin\Debug\net6.0-windows\Folder Browser Dialog.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\bin\Debug\net6.0-windows\Folder Browser Dialog.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\Folder Browser Dialog.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\Folder_Browser_Dialog.Form1.resources
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\Folder Browser Dialog.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\Folder Browser Dialog.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\Folder Browser Dialog.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\Folder Browser Dialog.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\Folder Browser Dialog.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\Folder Browser Dialog.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\refint\Folder Browser Dialog.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\Folder Browser Dialog.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\Folder Browser Dialog.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Folder Browser Dialog\Folder Browser Dialog\Folder Browser Dialog\obj\Debug\net6.0-windows\ref\Folder Browser Dialog.dll
