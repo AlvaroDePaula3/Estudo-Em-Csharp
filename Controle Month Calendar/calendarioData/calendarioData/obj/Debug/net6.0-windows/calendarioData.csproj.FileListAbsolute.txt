@@ -1,0 +1,17 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\bin\Debug\net6.0-windows\calendarioData.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\bin\Debug\net6.0-windows\calendarioData.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\bin\Debug\net6.0-windows\calendarioData.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\bin\Debug\net6.0-windows\calendarioData.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\bin\Debug\net6.0-windows\calendarioData.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\calendarioData.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\calendarioData.Form1.resources
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\calendarioData.csproj.GenerateResource.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\calendarioData.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\calendarioData.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\calendarioData.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\calendarioData.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\calendarioData.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\refint\calendarioData.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\calendarioData.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\calendarioData.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\Estudo do C#\Interface gráfica\Controle Month Calendar\calendarioData\calendarioData\obj\Debug\net6.0-windows\ref\calendarioData.dll
