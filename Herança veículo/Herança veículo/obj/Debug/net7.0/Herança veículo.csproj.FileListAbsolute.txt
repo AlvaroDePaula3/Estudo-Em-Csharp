@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\bin\Debug\net7.0\Herança veículo.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\bin\Debug\net7.0\Herança veículo.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\bin\Debug\net7.0\Herança veículo.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\bin\Debug\net7.0\Herança veículo.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\bin\Debug\net7.0\Herança veículo.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\obj\Debug\net7.0\Herança veículo.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\obj\Debug\net7.0\Herança veículo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\obj\Debug\net7.0\Herança veículo.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\obj\Debug\net7.0\Herança veículo.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\obj\Debug\net7.0\Herança veículo.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\obj\Debug\net7.0\Herança veículo.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\obj\Debug\net7.0\refint\Herança veículo.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\obj\Debug\net7.0\Herança veículo.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\obj\Debug\net7.0\Herança veículo.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Herança veículo\Herança veículo\obj\Debug\net7.0\ref\Herança veículo.dll
