@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\bin\Debug\net7.0\Heranca Funcionario.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\bin\Debug\net7.0\Heranca Funcionario.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\bin\Debug\net7.0\Heranca Funcionario.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\bin\Debug\net7.0\Heranca Funcionario.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\bin\Debug\net7.0\Heranca Funcionario.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\obj\Debug\net7.0\Heranca Funcionario.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\obj\Debug\net7.0\Heranca Funcionario.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\obj\Debug\net7.0\Heranca Funcionario.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\obj\Debug\net7.0\Heranca Funcionario.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\obj\Debug\net7.0\Heranca Funcionario.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\obj\Debug\net7.0\Heranca Funcionario.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\obj\Debug\net7.0\refint\Heranca Funcionario.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\obj\Debug\net7.0\Heranca Funcionario.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\obj\Debug\net7.0\Heranca Funcionario.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Heranca Funcionario\Heranca Funcionario\obj\Debug\net7.0\ref\Heranca Funcionario.dll
