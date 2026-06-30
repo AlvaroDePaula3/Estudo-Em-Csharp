@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\bin\Debug\net7.0\Abstracao formas geometricas.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\bin\Debug\net7.0\Abstracao formas geometricas.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\bin\Debug\net7.0\Abstracao formas geometricas.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\bin\Debug\net7.0\Abstracao formas geometricas.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\bin\Debug\net7.0\Abstracao formas geometricas.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\obj\Debug\net7.0\Abstracao formas geometricas.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\obj\Debug\net7.0\Abstracao formas geometricas.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\obj\Debug\net7.0\Abstracao formas geometricas.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\obj\Debug\net7.0\Abstracao formas geometricas.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\obj\Debug\net7.0\Abstracao formas geometricas.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\obj\Debug\net7.0\Abstracao formas geometricas.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\obj\Debug\net7.0\refint\Abstracao formas geometricas.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\obj\Debug\net7.0\Abstracao formas geometricas.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\obj\Debug\net7.0\Abstracao formas geometricas.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Abstracao formas geometricas\Abstracao formas geometricas\obj\Debug\net7.0\ref\Abstracao formas geometricas.dll
