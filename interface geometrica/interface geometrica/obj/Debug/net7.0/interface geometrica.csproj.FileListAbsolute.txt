@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\bin\Debug\net7.0\interface geometrica.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\bin\Debug\net7.0\interface geometrica.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\bin\Debug\net7.0\interface geometrica.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\bin\Debug\net7.0\interface geometrica.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\bin\Debug\net7.0\interface geometrica.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\obj\Debug\net7.0\interface geometrica.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\obj\Debug\net7.0\interface geometrica.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\obj\Debug\net7.0\interface geometrica.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\obj\Debug\net7.0\interface geometrica.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\obj\Debug\net7.0\interface geometrica.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\obj\Debug\net7.0\interface geometrica.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\obj\Debug\net7.0\refint\interface geometrica.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\obj\Debug\net7.0\interface geometrica.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\obj\Debug\net7.0\interface geometrica.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\interface geometrica\interface geometrica\obj\Debug\net7.0\ref\interface geometrica.dll
