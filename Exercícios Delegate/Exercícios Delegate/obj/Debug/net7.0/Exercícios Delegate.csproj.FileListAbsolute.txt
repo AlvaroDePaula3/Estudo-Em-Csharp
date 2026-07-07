@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\bin\Debug\net7.0\Exercícios Delegate.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\bin\Debug\net7.0\Exercícios Delegate.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\bin\Debug\net7.0\Exercícios Delegate.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\bin\Debug\net7.0\Exercícios Delegate.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\bin\Debug\net7.0\Exercícios Delegate.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\obj\Debug\net7.0\Exercícios Delegate.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\obj\Debug\net7.0\Exercícios Delegate.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\obj\Debug\net7.0\Exercícios Delegate.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\obj\Debug\net7.0\Exercícios Delegate.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\obj\Debug\net7.0\Exercícios Delegate.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\obj\Debug\net7.0\Exercícios Delegate.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\obj\Debug\net7.0\refint\Exercícios Delegate.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\obj\Debug\net7.0\Exercícios Delegate.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\obj\Debug\net7.0\Exercícios Delegate.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Exercícios Delegate\Exercícios Delegate\obj\Debug\net7.0\ref\Exercícios Delegate.dll
