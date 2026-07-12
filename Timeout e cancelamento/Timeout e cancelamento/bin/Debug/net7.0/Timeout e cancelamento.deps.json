@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "Timeout e cancelamento/1.0.0": {
+        "runtime": {
+          "Timeout e cancelamento.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Timeout e cancelamento/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

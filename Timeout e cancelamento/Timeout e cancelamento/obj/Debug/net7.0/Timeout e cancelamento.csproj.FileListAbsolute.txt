@@ -1,0 +1,15 @@
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\bin\Debug\net7.0\Timeout e cancelamento.exe
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\bin\Debug\net7.0\Timeout e cancelamento.deps.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\bin\Debug\net7.0\Timeout e cancelamento.runtimeconfig.json
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\bin\Debug\net7.0\Timeout e cancelamento.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\bin\Debug\net7.0\Timeout e cancelamento.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\obj\Debug\net7.0\Timeout e cancelamento.csproj.AssemblyReference.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\obj\Debug\net7.0\Timeout e cancelamento.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\obj\Debug\net7.0\Timeout e cancelamento.AssemblyInfoInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\obj\Debug\net7.0\Timeout e cancelamento.AssemblyInfo.cs
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\obj\Debug\net7.0\Timeout e cancelamento.csproj.CoreCompileInputs.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\obj\Debug\net7.0\Timeout e cancelamento.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\obj\Debug\net7.0\refint\Timeout e cancelamento.dll
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\obj\Debug\net7.0\Timeout e cancelamento.pdb
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\obj\Debug\net7.0\Timeout e cancelamento.genruntimeconfig.cache
+C:\Users\alvar\OneDrive\Área de Trabalho\projeto Junior\Timeout e cancelamento\Timeout e cancelamento\obj\Debug\net7.0\ref\Timeout e cancelamento.dll
