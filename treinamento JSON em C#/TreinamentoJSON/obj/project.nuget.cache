@@ -1,0 +1,16 @@
+{
+  "version": 2,
+  "dgSpecHash": "S8dq5cu40yDViDD4MusXPiV+fsf5hEjohCyR4t4mOteczYbz9qMPuEl0/LpoXJhi9JQsTFLUSXBeVyajaTcSUw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\alvar\\OneDrive\\Área de Trabalho\\projeto Junior\\treinamento JSON em C#\\TreinamentoJSON\\TreinamentoJSON.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alvar\\.nuget\\packages\\microsoft.aspnetcore.openapi\\7.0.5\\microsoft.aspnetcore.openapi.7.0.5.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\microsoft.extensions.apidescription.server\\6.0.5\\microsoft.extensions.apidescription.server.6.0.5.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\microsoft.openapi\\1.4.3\\microsoft.openapi.1.4.3.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\swashbuckle.aspnetcore\\6.4.0\\swashbuckle.aspnetcore.6.4.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.4.0\\swashbuckle.aspnetcore.swagger.6.4.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.4.0\\swashbuckle.aspnetcore.swaggergen.6.4.0.nupkg.sha512",
+    "C:\\Users\\alvar\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.4.0\\swashbuckle.aspnetcore.swaggerui.6.4.0.nupkg.sha512"
+  ],
+  "logs": []
+}
